@@ -202,7 +202,9 @@ table,tr,td,th{
    h2,p{
     font-size: 16px;
    }
-  
+  h1{
+    font-size: 15px;
+  }
     
   }
 
@@ -224,7 +226,7 @@ nav a{
 
 span{
     color: #fff;
-    font-size: 15px;
+    
 }
  h2{
     font-size: 20px;
